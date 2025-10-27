@@ -1,4 +1,8 @@
 Chapter 1:
 D
 EE
+<<<<<<< HEAD
 HHH
+=======
+LLL
+>>>>>>> 5925521 (update LLL)
